@@ -3,8 +3,8 @@ Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
-## Name: DINESH R
-## Registernumber: 212224240037
+## Name: Dineshkarthik N
+## Registernumber: 212223220021
 
 # AIM:
 To practice Linux Commands and Shell Scripting
